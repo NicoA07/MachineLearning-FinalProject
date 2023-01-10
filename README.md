@@ -13,7 +13,7 @@ My implementation involves developing a logistic regression model for the provid
 
 ## Environment Details
 The following libraries are needed to run the code:
-```
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -35,7 +35,7 @@ from joblib import dump
 from joblib import load
 ```
 You can install these libraries by running by running `pip install -r requirements.txt` or by installing them individually using `pip install library-name`.
-```
+```python
 # Requirements #
 !pip install -r requirements.txt
 # or
@@ -52,9 +52,11 @@ The main notebook for the project is [`109550200_Final_train.ipynb`](), which co
 
 The data preprocessing step includes imputation of missing values using KNNImputer and feature scaling. The model training step includes the implementation of k-fold cross-validation, training of the logistic regression model with selected features, and the calculation of AUC and accuracy scores. The model evaluation step includes the computation of out-of-fold predictions and the analysis of feature importances. The additional features that were researched and implemented based on the analysis of feature correlations and discussion on Kaggle platforms are also added in the train model function.
 
-You can find the full report in the repo as well which provides more detail on each step. 
+You can find the [full report]() in the repo as well which provides more detail on each step. 
 
 ## Inference
-The repository includes the [pre-trained model], so you can use the pre-trained model to make predictions directly on the dataset by running [`109550200_Final_inference.ipynb`]().
+The repository includes the [pre-trained model](), so you can use the pre-trained model to make predictions directly on the dataset by running [`109550200_Final_inference.ipynb`]().
 
-## Conclusion
+## Result
+![]()
+![]()
