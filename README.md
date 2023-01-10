@@ -58,12 +58,15 @@ You can find the [full report](https://github.com/NicoA07/MachineLearning-FinalP
 The repository includes the [pre-trained model](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/my_best_model3.joblib), so you can use the pre-trained model to make predictions directly on the dataset by running [109550200_Final_inference.ipynb](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/109550200_Final_inference.ipynb).
 
 ## Result
-![Train Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg)
-![Submission Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png)
+<!-- ![Train Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg)
+![Submission Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png) -->
 
-|               |               |
-| ------------- | ------------- |
-| ![Train Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg) | ![Submission Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png) |
+<p align="center">
+  <img src="https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg" alt="Train Result"/>
+  <br />
+  <br />
+  <img src="https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png" alt="Submission Result"/>
+</p>
 
 ## Reference
 Lastly, I would like to express my gratitude to all the valuable resources and references found in the Kaggle community. The discussions and notebooks shared by other Kagglers have provided invaluable insights and knowledge that have greatly contributed to the completion of this final project. Without their contributions, this project would not have been possible. Below are all the links that have helped me to accomplish this final project or see the [reference.txt](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Reference.txt) in the repo.
