@@ -1,0 +1,7 @@
+numpy 
+pandas 
+matplotlib 
+scikit-learn 
+joblib 
+feature_engine 
+colorama
