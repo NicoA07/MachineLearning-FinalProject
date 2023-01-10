@@ -1,7 +1,7 @@
 # Introduction to Machine Learning Final Project
 
 ## Overview
-The Final Project is to compete the [The August 2022 edition of the Tabular Playground Series](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview), which we need to use the [provided dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data) to build a model that predicts product failures.
+The aim of this Final Project is to compete in the [The August 2022 edition of the Tabular Playground Series](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview), which we need to use the [provided dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data) to build a model that predicts product failures.
 My implementation involves developing a logistic regression model for the provided dataset. The project makes use of various Python libraries for data preprocessing and feature selection and includes the following key features:
 
 * Imputation of missing values using KNNImputer
