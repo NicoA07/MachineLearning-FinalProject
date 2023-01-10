@@ -1,4 +1,4 @@
-# Introduction to Machine Learning Final Project, NYCU Fall 2022
+# Introduction to Machine Learning Final Project
 
 ## Overview
 The Final Project is to compete the [The August 2022 edition of the Tabular Playground Series](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview), which we need to use the [provided dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data) to build a model that predicts product failures.
