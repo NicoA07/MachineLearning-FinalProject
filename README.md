@@ -43,7 +43,7 @@ You can install these libraries by running by running `pip install -r requiremen
 ```
 
 ## Implementation Details
-The main notebook for the project is [`109550200_Final_train.ipynb`](), which contains the implementation of the logistic regression model. The notebook is organized into the following sections:
+The main notebook for the project is [109550200_Final_train.ipynb](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/109550200_Final_train.ipynb), which contains the implementation of the logistic regression model. The notebook is organized into the following sections:
 
 * Data Preprocessing
 * Model Training
@@ -52,11 +52,22 @@ The main notebook for the project is [`109550200_Final_train.ipynb`](), which co
 
 The data preprocessing step includes imputation of missing values using KNNImputer and feature scaling. The model training step includes the implementation of k-fold cross-validation, training of the logistic regression model with selected features, and the calculation of AUC and accuracy scores. The model evaluation step includes the computation of out-of-fold predictions and the analysis of feature importances. The additional features that were researched and implemented based on the analysis of feature correlations and discussion on Kaggle platforms are also added in the train model function.
 
-You can find the [full report]() in the repo as well which provides more detail on each step. 
+You can find the [full report](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/109550200_Final.pdf) in the repo as well which provides more detail on each step. 
 
 ## Inference
-The repository includes the [pre-trained model](), so you can use the pre-trained model to make predictions directly on the dataset by running [`109550200_Final_inference.ipynb`]().
+The repository includes the [pre-trained model](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/my_best_model3.joblib), so you can use the pre-trained model to make predictions directly on the dataset by running [109550200_Final_inference.ipynb](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/109550200_Final_inference.ipynb).
 
 ## Result
-![]()
-![]()
+![Train Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg)
+![Submission Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png)
+
+## Reference
+Lastly, I would like to express my gratitude to all the valuable resources and references found in the Kaggle community. The discussions and notebooks shared by other Kagglers have provided invaluable insights and knowledge that have greatly contributed to the completion of this final project. Without their contributions, this project would not have been possible. Below are all the links that have helped me to accomplish this final project or see the [reference.txt]() in the repo.
+* https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/349299
+* https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/343960
+* https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/349541
+* https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/342126
+* https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/342319
+* https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/343368
+
+
