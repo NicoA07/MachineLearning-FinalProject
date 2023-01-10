@@ -61,6 +61,10 @@ The repository includes the [pre-trained model](https://github.com/NicoA07/Machi
 ![Train Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg)
 ![Submission Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png)
 
+|               |               |
+| ------------- | ------------- |
+| ![Train Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/Model2_TrainResult.jpg) | ![Submission Result](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Result/SubmissionResult.png) |
+
 ## Reference
 Lastly, I would like to express my gratitude to all the valuable resources and references found in the Kaggle community. The discussions and notebooks shared by other Kagglers have provided invaluable insights and knowledge that have greatly contributed to the completion of this final project. Without their contributions, this project would not have been possible. Below are all the links that have helped me to accomplish this final project or see the [reference.txt](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/Reference.txt) in the repo.
 * https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/349299
