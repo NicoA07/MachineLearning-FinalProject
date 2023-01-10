@@ -34,7 +34,7 @@ from colorama import Fore, Back, Style
 from joblib import dump
 from joblib import load
 ```
-You can install these libraries by running by running `pip install -r requirements.txt` or by installing them individually using `pip install library-name`.
+You can install these libraries by running by running `pip install -r` [requirements.txt](https://github.com/NicoA07/MachineLearning-FinalProject/blob/main/requirements.txt) or by installing them individually using `pip install library-name`.
 ```python
 # Requirements #
 !pip install -r requirements.txt
